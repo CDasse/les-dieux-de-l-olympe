@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    background-color: #40916C;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Borel", cursive;
+}
+
+h1 {
+    padding-top: 30px;
+    font-size: 3em;
+    text-align: center;
+}
+
+.logo_site {
+    height: 100px;
+    width: 100px;
+}
+
+.logo_site:hover {
+    opacity: 0.5;
+}
+
+header,
+footer {
+    background-color: white;
+}
+
+nav,
+footer {
+    margin: 0;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    padding-right: 5em;
+}
+
+a  {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 0px 0px 10px #74C69D;
+}
+
+a:visited {
+    color: black;
+}

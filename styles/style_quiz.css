@@ -1,0 +1,34 @@
+input,
+textarea,
+button {
+    border-radius: 5px;
+    border: 1px solid #D8F3DC;
+}
+
+section,
+section div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+}
+
+input {
+    max-width: 1000px;
+}
+
+.cta:hover {
+    opacity: 0.8;
+}
+
+h2 {
+    color: #D8F3DC;
+    padding-top: 30px;
+}
+
+select {
+    border-radius: 5px;
+}
