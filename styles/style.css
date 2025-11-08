@@ -49,8 +49,21 @@ footer {
     align-items: center;
 }
 
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
 nav a {
     padding-right: 5em;
+}
+
+ul li:hover {
+    transform: scale(1.1);
+    transition: ease-out .2s;
 }
 
 a  {
