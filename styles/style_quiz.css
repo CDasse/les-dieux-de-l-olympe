@@ -20,7 +20,8 @@ input {
     max-width: 1000px;
 }
 
-.cta:hover {
+.cta:hover,
+button:hover {
     opacity: 0.8;
 }
 
