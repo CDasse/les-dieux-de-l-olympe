@@ -63,7 +63,7 @@ nav a {
 
 ul li:hover {
     transform: scale(1.1);
-    transition: ease-out .2s;
+    transition: 0.4s;
 }
 
 a  {

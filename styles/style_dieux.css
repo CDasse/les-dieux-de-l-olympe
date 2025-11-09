@@ -8,6 +8,11 @@
     border-bottom: 1px #D8F3DC solid;
 }
 
+.sommaire_dieux a:hover {
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
 h2 {
     padding: 30px;
     color: #D8F3DC;
@@ -21,6 +26,7 @@ h4 {
 
 h3:hover {
     color: #D8F3DC;
+    transition: 0.3s;
 }
 
 img {
